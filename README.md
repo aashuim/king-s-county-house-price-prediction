@@ -9,11 +9,11 @@ The objective of this project is to explore the dataset, perform some data clean
 Import data and check the shape of the dataset
 Check for missing values
 Check column types and describe which columns are numerical, or categorical
-# Perform Univariate analysis:
+### Perform Univariate analysis:
 Calculate mean, median, std dev, and quartiles of numerical data
 Plot histogram for a few categorical variables
 Check the distribution of numerical variables and comment on it
-# Perform Bivariate analysis:
+### Perform Bivariate analysis:
 Plot pair plots
 Perform a Chi-square analysis to check whether there is a relationship between some variables
 Calculate Pearson correlation, and plot their heatmap
