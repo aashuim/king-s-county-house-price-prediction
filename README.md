@@ -23,8 +23,8 @@ Scale the variables
 Machine Learning Models
 # Two machine learning algorithms were used to predict the house prices in this project:
 
-Linear Regression
-Decision Tree
+*Linear Regression
+*Decision Tree
 The performance of each algorithm was evaluated using the Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared.
 
 # Conclusion
